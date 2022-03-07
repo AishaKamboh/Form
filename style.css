@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+ 
+.upcontainer{
+    width: 100%;
+    /*background-color: #f2f2f2;*/
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   
+    
+
+}
+.container{
+    width: 100%;
+    /*background-color: #f2f2f2;*/
+    border: 1px solid #ccc;
+    
+    padding: 0px 20px 0px 20px;
+    padding-top: 10px;
+    
+}
+
+.lowercontainer{
+    background-color: aquamarine;
+    border: 1px solid #ccc;
+    
+    padding: 0px 20px 0px 20px;
+    
+    
+    
+
+   
+}
+input[type="text"], input[type="email"], 
+textarea{
+    background-color: white;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px;
+    
+}
+input[type="submit"]{
+    border: none;
+    background-color: rgb(113, 224, 132);
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 10%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+    
